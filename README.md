@@ -1,12 +1,7 @@
 # TT Custom Search
-
-Coming soon
-
-
-# TT Custom Search
 TT Custom Search is custom a homepage for your browser. It is specifically created for trophy hunters on [TrueTrophies](https://www.truetrophies.com/). 
 
-Looking for TrueTrophies? That can be found [here](https://github.com/Jabser/TT-Custom-Search).
+Looking for TrueAchievements? That can be found [here](https://github.com/Jabser/TA-Custom-Search).
 
 ![cover](cover.png)
 
