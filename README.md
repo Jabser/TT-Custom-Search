@@ -11,7 +11,7 @@ Looking for TrueAchievements? That can be found [here](https://github.com/Jabser
 
 **Live Version**
 
-For the most up to date version of the start page use this [link](https://jabser.github.io/TT-Custom-Search/) & set it as your new homepage.
+For the most up to date version of the start page use this [link](https://jabser.github.io/TT-Custom-Search/) & set it as your homepage.
 
 **Manual**
 
@@ -19,7 +19,7 @@ If you would rather set it up locally you can download the file [here](https://r
 
 ---
 
-### Extension Version
+### Browser extensions
 **Coming Soon**
 
 A way to instantly search on TrueTrophies without leaving your current website.
